@@ -1,0 +1,18 @@
+body {
+	font-family: 'Jura', sans-serif;
+	margin-left: 2rem;
+	margin-right: 2rem;
+}
+a {
+	color: black;
+	text-decoration: unset;
+	font-weight: 700;
+}
+a:hover {
+    color: white;
+    background: black;
+}
+.nav-tabs .nav-link.active {
+    color: white;
+    background: black;
+}
